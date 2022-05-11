@@ -1,5 +1,5 @@
 _G.Thing = true
-_G.Case = "Flufficated"
+_G.Case = "Helmetalized"
 
 for i=1,700 do
 spawn(function()
