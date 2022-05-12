@@ -33,104 +33,100 @@ tab2:Button("Walk", function()
 end)
 
 tab3:Button("10T", function()
-	local string_1 = "Aesthetic Fluffy Bunny Hat";
-	local string_2 = "3500";
+	local string_1 = "Custom Tan Fast Helmet";
+	local string_2 = "1733";
 	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
 	Target:FireServer(string_1, string_2);
 
 
-	local string_1 = "Fluffy Earmuffs";
-	local string_2 = "3500";
+	local string_1 = "Volcanic Warlord Helmet";
+	local string_2 = "1733";
 	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
 	Target:FireServer(string_1, string_2);
 
 
-	local string_1 = "Fluffy Bunny Beret";
-	local string_2 = "3500";
-	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
-	Target:FireServer(string_1, string_2);
-
-
-	local string_1 = "White Fluffy Cat Hat";
-	local string_2 = "3500";
+	local string_1 = "Fire Helmet Red";
+	local string_2 = "1733";
 	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
 	Target:FireServer(string_1, string_2);
 end)
 
 tab3:Button("100T", function()
-	local string_1 = "Aesthetic Fluffy Bunny Hat";
-	local string_2 = "35000";
+	local string_1 = "Custom Tan Fast Helmet";
+	local string_2 = "17333";
 	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
 	Target:FireServer(string_1, string_2);
 
 
-	local string_1 = "Fluffy Earmuffs";
-	local string_2 = "35000";
+	local string_1 = "Volcanic Warlord Helmet";
+	local string_2 = "17333";
 	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
 	Target:FireServer(string_1, string_2);
 
 
-	local string_1 = "Fluffy Bunny Beret";
-	local string_2 = "35000";
-	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
-	Target:FireServer(string_1, string_2);
-
-
-	local string_1 = "White Fluffy Cat Hat";
-	local string_2 = "35000";
+	local string_1 = "Fire Helmet Red";
+	local string_2 = "17333";
 	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
 	Target:FireServer(string_1, string_2);
 end)
 
 tab3:Button("1qd", function()
-	local string_1 = "Aesthetic Fluffy Bunny Hat";
-	local string_2 = "350000";
+        local string_1 = "Custom Tan Fast Helmet";
+	local string_2 = "173333";
 	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
 	Target:FireServer(string_1, string_2);
 
 
-	local string_1 = "Fluffy Earmuffs";
-	local string_2 = "350000";
+	local string_1 = "Volcanic Warlord Helmet";
+	local string_2 = "173333";
 	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
 	Target:FireServer(string_1, string_2);
 
 
-	local string_1 = "Fluffy Bunny Beret";
-	local string_2 = "350000";
-	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
-	Target:FireServer(string_1, string_2);
-
-
-	local string_1 = "White Fluffy Cat Hat";
-	local string_2 = "350000";
+	local string_1 = "Fire Helmet Red";
+	local string_2 = "173333";
 	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
 	Target:FireServer(string_1, string_2);
 end)
 
 tab3:Button("10qd", function()
-	local string_1 = "Aesthetic Fluffy Bunny Hat";
-	local string_2 = "3500000";
+        local string_1 = "Custom Tan Fast Helmet";
+	local string_2 = "1733333";
 	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
 	Target:FireServer(string_1, string_2);
 
 
-	local string_1 = "Fluffy Earmuffs";
-	local string_2 = "3500000";
+	local string_1 = "Volcanic Warlord Helmet";
+	local string_2 = "1733333";
 	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
 	Target:FireServer(string_1, string_2);
 
 
-	local string_1 = "Fluffy Bunny Beret";
-	local string_2 = "3500000";
-	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
-	Target:FireServer(string_1, string_2);
-
-
-	local string_1 = "White Fluffy Cat Hat";
-	local string_2 = "3500000";
+	local string_1 = "Fire Helmet Red";
+	local string_2 = "1733333";
 	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
 	Target:FireServer(string_1, string_2);
 end)
+
+tab3:Button("100qd (new)", function()
+	local string_1 = "Custom Tan Fast Helmet";
+	local string_2 = "17333333";
+	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
+	Target:FireServer(string_1, string_2);
+
+
+	local string_1 = "Volcanic Warlord Helmet";
+	local string_2 = "17333333";
+	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
+	Target:FireServer(string_1, string_2);
+
+
+	local string_1 = "Fire Helmet Red";
+	local string_2 = "17333333";
+	local Target = game:GetService("ReplicatedStorage").Remotes.Jackpot;
+	Target:FireServer(string_1, string_2);
+end)
+
 
 local changeclr = win:Tab("Change UI Color")
 
