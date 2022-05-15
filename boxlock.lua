@@ -4,7 +4,7 @@ getgenv().Target = true
 -- Configuration
 getgenv().Key = Enum.KeyCode.Q
 getgenv().Prediction = 0.127668
-getgenv().ChatMode = true
+getgenv().ChatMode = false
 getgenv().NotifMode = true
     getgenv().PartMode = true
     getgenv().AirshotFunccc = true
