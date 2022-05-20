@@ -1,5 +1,5 @@
 _G.Thing = true
-_G.Case = "Summerfested"
+_G.Case = "Phenominalic"
 
 for i=1,700 do
 spawn(function()
